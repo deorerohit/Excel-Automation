@@ -1,0 +1,1 @@
+print('potbhare pahila no. tak')
