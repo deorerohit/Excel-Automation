@@ -1,1 +1,1 @@
-print("nagargoje dusra no. tak")
+print("Deore tisara no. tak")
