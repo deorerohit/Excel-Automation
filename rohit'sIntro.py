@@ -1,0 +1,1 @@
+print("nagargoje dusra no. tak")
