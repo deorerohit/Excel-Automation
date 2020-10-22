@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Enter the no of Excel no
-print('Enter no of file : ')
+print('Enter no of files : ')
 i = int(input())
 
 # store the File Descriptor in list
