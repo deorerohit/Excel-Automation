@@ -25,5 +25,5 @@ for i in filesD:
         p.append(df)
 
 #Writing Common column of all files in new created .xlsx File column
-dp = pd.concat(p, axis=0)
+dp = pd.concat(p, axis=1)
 dp.to_excel('D:\\text.xlsx', index=False)
